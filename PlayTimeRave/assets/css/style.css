@@ -324,7 +324,7 @@ body.nav-active { overflow: hidden; }
 .section-subtitle::after {
   content: url('../images/separator.svg');
   display: block;
-  width: 270px;
+  width: 350px;
   margin-inline: auto;
   margin-block-start: 5px;
 }
